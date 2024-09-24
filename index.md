@@ -10,3 +10,6 @@ if (location == "america")
 else
   print("lets go to America!")
 ```
+- [X] Memify this assignment
+- [X] Excell at basic github
+- [ ] Do a cybersecurity final project
